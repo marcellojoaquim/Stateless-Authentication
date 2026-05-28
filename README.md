@@ -7,6 +7,7 @@ Consistem em uma estratégia de autenticação onde o usuário, após informar s
 - Este token contém os dados necessários identificar e autorizar quem gerou o token, caso o sistema que recebe a requisicão com o token tenha a chave de acesso.
 - Os dados do access token, normalmente são armazenados no lado do cliente, ou seja, no navegador ou aplicação mobile.
 - O dados são assinados por um chave para garantir a integridade dos dados.
+</p>
 
 ## Vantagens:
 
@@ -22,7 +23,6 @@ Consistem em uma estratégia de autenticação onde o usuário, após informar s
 - Não é possível revogar o token com facilidade ou a qualquer momento
 - Pode facilitar a entrada de terceiros mal intencionados
 - Mais complexo de se implementar
-</p>
 
 ## Tecnologias
 
