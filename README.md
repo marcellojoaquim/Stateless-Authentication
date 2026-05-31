@@ -24,6 +24,9 @@ Consistem em uma estratégia de autenticação onde o usuário, após informar s
 - Pode facilitar a entrada de terceiros mal intencionados
 - Mais complexo de se implementar
 
+## Arquitetura
+![Desenho da arquitetura](utils/stateless.png)
+
 ## Tecnologias
 
 - Linguagem: Java
